@@ -1,0 +1,27 @@
+{
+  "name": "decorate",
+  "version": "0.0.1",
+  "description": "nodejs function decorators (like connect's middleware)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plasticpanda/decorate.git"
+  },
+  "keywords": [
+    "decorator",
+    "decorators",
+    "function",
+    "decorator"
+  ],
+  "author": "Simone Lusenti <simone@plasticpanda.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plasticpanda/decorate/issues"
+  },
+  "dependencies": {
+    "sliced": "0.0.5"
+  }
+}
